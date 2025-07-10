@@ -4,7 +4,7 @@
 void callable_functions::guessing_game() {
 	// predefine variables.
 	constexpr int secret_number = 7;
-	int guess;
+	int guess{};
 	int guess_count = 0;
 	int guess_limit = 3;
 	bool out_of_guesses = false;
@@ -34,6 +34,7 @@ void callable_functions::guessing_game() {
 	if (out_of_guesses) {
 		std::cout << "you lose!\n";
 	}
+
 	else {
 		// ggwp.
 		std::cout << "you guessed the secret number!\n";
