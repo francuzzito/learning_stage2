@@ -20,6 +20,9 @@
     <ClCompile Include="for_loops.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="exponent_function.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
