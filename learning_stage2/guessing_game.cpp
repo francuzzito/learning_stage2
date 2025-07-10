@@ -31,7 +31,6 @@ void callable_functions::guessing_game() {
 
 	}
 
-
 	if (out_of_guesses) {
 		std::cout << "you lose!\n";
 	}
