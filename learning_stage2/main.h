@@ -7,5 +7,6 @@ namespace callable_functions{
 	void twod_arrays_and_nested_loops();
 	void pointers();
 	void classes_and_objects();
+	void object_functions();
 
 }

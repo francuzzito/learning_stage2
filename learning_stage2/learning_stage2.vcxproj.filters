@@ -32,6 +32,9 @@
     <ClCompile Include="classes_and_objects.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="object_functions.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">

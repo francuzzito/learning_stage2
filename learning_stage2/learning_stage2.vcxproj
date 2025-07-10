@@ -129,6 +129,7 @@
     <ClCompile Include="for_loops.cpp" />
     <ClCompile Include="guessing_game.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="object_functions.cpp" />
     <ClCompile Include="pointers.cpp" />
   </ItemGroup>
   <ItemGroup>
