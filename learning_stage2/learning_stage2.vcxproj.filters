@@ -17,6 +17,9 @@
     <ClCompile Include="guessing_game.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="for_loops.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
