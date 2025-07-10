@@ -8,5 +8,6 @@ namespace callable_functions{
 	void pointers();
 	void classes_and_objects();
 	void object_functions();
+	void getters_and_setters();
 
 }
