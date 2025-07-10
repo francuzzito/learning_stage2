@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2d_arrays_and_nested_loops.cpp" />
     <ClCompile Include="exponent_function.cpp" />
     <ClCompile Include="for_loops.cpp" />
     <ClCompile Include="guessing_game.cpp" />

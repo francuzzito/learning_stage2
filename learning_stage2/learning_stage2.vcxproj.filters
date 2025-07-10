@@ -23,6 +23,9 @@
     <ClCompile Include="exponent_function.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="2d_arrays_and_nested_loops.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
